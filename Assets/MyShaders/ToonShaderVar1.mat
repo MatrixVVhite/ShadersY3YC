@@ -39,8 +39,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _BlinnPhong: 1
-    - _ShouldUseManualLight: 0
-    - _WaveAmount: 10
+    - _ShouldUseManualLight: 1
+    - _WaveAmount: 7
     m_Colors:
     - _Color: {r: 1, g: 0.48692882, b: 0, a: 0}
   m_BuildTextureStacks: []
