@@ -27,6 +27,7 @@ Material:
     m_Floats:
     - _BlinnPhong: 0
     - _ShouldUseManualLight: 1
+    - _WaveAmount: 3
     m_Colors:
     - _Color: {r: 0, g: 0.6768575, b: 1, a: 0}
     - _LightDirectionManual: {r: -0.82, g: -1, b: -0.35, a: 0}
