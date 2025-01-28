@@ -40,18 +40,19 @@ Material:
     - _Blur_Multiplier: 1000
     - _Focus_Range: 0.307
     - _InnerCircleThreshhold: 0.3
-    - _Inner_Blur_Multiplier: 50
-    - _Inner_Noise_Scroll_Speed: 0.1
-    - _Inner_Ring: 0.327
+    - _Inner_Blur_Multiplier: 5
+    - _Inner_Noise_Scroll_Speed: 0.5
+    - _Inner_Ring: 0.509
     - _Lens_Position_X: 0.5
     - _Lens_Position_Y: 0.5
     - _Night_Vision: 1
+    - _Night_Vision_Shading_Strength: 10
     - _Night_Vision_Strength: 0.25
     - _Out_Of_Focus_Range: 0.408
     - _OuterCircleThreshhold: 0.538
     - _Outer_Blur_Multiplier: 5
     - _Outer_Noise_Scroll_Speed: 1
-    - _Outer_Ring: 0.44
+    - _Outer_Ring: 0.642
     - _test: 0.006
     m_Colors:
     - _Lens_Position: {r: 0, g: 0, b: 0, a: 0}
