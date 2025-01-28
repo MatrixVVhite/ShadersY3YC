@@ -2700,7 +2700,7 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": -1605.0,
-            "y": 2806.0,
+            "y": 2812.0,
             "width": 130.0,
             "height": 118.0
         }
@@ -10393,10 +10393,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1918.0,
-            "y": 3002.000244140625,
+            "x": -1962.0,
+            "y": 3002.0,
             "width": 126.0,
-            "height": 117.999755859375
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -11545,10 +11545,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1691.0001220703125,
+            "x": -1691.0,
             "y": -513.0,
             "width": 145.0,
-            "height": 118.00006103515625
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -12264,8 +12264,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1937.0001220703125,
-            "y": 2871.000244140625,
+            "x": -1981.0,
+            "y": 2871.0,
             "width": 145.0,
             "height": 112.0
         }
@@ -13363,10 +13363,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2169.0,
-            "y": 3077.000244140625,
+            "x": -2213.0,
+            "y": 3077.0,
             "width": 232.0,
-            "height": 33.999755859375
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -13757,8 +13757,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1765.0001220703125,
-            "y": 2871.000244140625,
+            "x": -1809.0,
+            "y": 2871.0,
             "width": 126.0,
             "height": 118.0
         }
@@ -13892,8 +13892,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2123.0,
-            "y": 3027.000244140625,
+            "x": -2167.0,
+            "y": 3027.0,
             "width": 186.0,
             "height": 34.0
         }
