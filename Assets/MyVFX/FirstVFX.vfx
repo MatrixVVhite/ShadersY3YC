@@ -17,9 +17,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 385
+    x: 30
     y: -457
-    width: 1548
+    width: 1903
     height: 2564
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -3579,7 +3579,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 385, y: 1134}
+  m_UIPosition: {x: 30, y: 1069}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -3740,7 +3740,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 641, y: 1204}
+  m_UIPosition: {x: 286, y: 1139}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -4698,7 +4698,7 @@ MonoBehaviour:
   m_Nodes:
   - m_Id: 0
     linkedSlots: []
-    position: {x: 660, y: 1355}
+    position: {x: 305, y: 1290}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614735
