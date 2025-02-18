@@ -1302,6 +1302,7 @@ GameObject:
   - component: {fileID: 877751746}
   - component: {fileID: 877751749}
   - component: {fileID: 877751750}
+  - component: {fileID: 877751751}
   m_Layer: 0
   m_Name: DissolveVFX
   m_TagString: Untagged
@@ -1392,6 +1393,15 @@ VisualEffect:
       - m_Value: {x: 1, y: 1, z: 1}
         m_Name: StartTransform_scale
         m_Overridden: 1
+      - m_Value: {x: -0, y: 0, z: 0}
+        m_Name: EndTransform_angles
+        m_Overridden: 1
+      - m_Value: {x: -22.623322, y: 7.772036, z: -14.2742}
+        m_Name: EndTransform_position
+        m_Overridden: 1
+      - m_Value: {x: 1, y: 1, z: 1}
+        m_Name: EndTransform_scale
+        m_Overridden: 1
     m_Vector4f:
       m_Array: []
     m_Uint:
@@ -1444,10 +1454,11 @@ MonoBehaviour:
   m_ExecuteInEditor: 1
   m_Bindings:
   - {fileID: 877751750}
+  - {fileID: 877751751}
   m_VisualEffect: {fileID: 877751747}
 --- !u!114 &877751750
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1460,6 +1471,21 @@ MonoBehaviour:
   m_Property:
     m_Name: StartTransform
   Target: {fileID: 481027972}
+--- !u!114 &877751751
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 877751745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdfea1f838247c40921a07afedde962, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Property:
+    m_Name: EndTransform
+  Target: {fileID: 1362500078}
 --- !u!1 &889863128
 GameObject:
   m_ObjectHideFlags: 0
@@ -1943,7 +1969,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 0043d6a75db7de142b5e59a257939a77, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.55
+      value: -21.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0043d6a75db7de142b5e59a257939a77, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1951,7 +1977,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0043d6a75db7de142b5e59a257939a77, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.52
+      value: -2.06
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0043d6a75db7de142b5e59a257939a77, type: 3}
       propertyPath: m_LocalRotation.w
