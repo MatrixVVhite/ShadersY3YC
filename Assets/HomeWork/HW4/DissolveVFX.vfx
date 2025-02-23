@@ -30,10 +30,10 @@ MonoBehaviour:
   - title: SPAWN FIRST MESH
     position:
       serializedVersion: 2
-      x: 1436
-      y: 172
-      width: 1059
-      height: 1556
+      x: 2008
+      y: 160
+      width: 658
+      height: 1489
     contents:
     - model: {fileID: 8926484042661615036}
       id: 2
@@ -41,22 +41,7 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615576}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615592}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615618}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615633}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615637}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615640}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615646}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615848}
@@ -79,25 +64,10 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615653}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615659}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615843}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615857}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615872}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615876}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615879}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615885}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615892}
@@ -106,10 +76,10 @@ MonoBehaviour:
   - title: Dissolve over time
     position:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: 100
-      height: 100
+      x: 1703
+      y: 1077
+      width: 451
+      height: 182
     contents:
     - model: {fileID: 8926484042661615816}
       id: 0
@@ -134,8 +104,8 @@ MonoBehaviour:
   - title: Positioning and offset correction
     position:
       serializedVersion: 2
-      x: 1429
-      y: 1428
+      x: 1601
+      y: 1414
       width: 610
       height: 301
     contents:
@@ -226,12 +196,6 @@ MonoBehaviour:
       height: 693
     contents:
     - model: {fileID: 8926484042661614558}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615054}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615029}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614986}
@@ -3769,7 +3733,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661615017}
       inputSlot: {fileID: 8926484042661615984}
-    position: {x: 1544, y: 1487}
+    position: {x: 1716, y: 1473}
     expandedSlots:
     - {fileID: 8926484042661615016}
     expanded: 1
@@ -4499,7 +4463,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661615037}
       inputSlot: {fileID: 8926484042661615580}
-    position: {x: 1886, y: 1283}
+    position: {x: 2057, y: 1271}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661615037
@@ -10137,7 +10101,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661615592}
-  m_UIPosition: {x: 2046, y: 1109}
+  m_UIPosition: {x: 2217, y: 1097}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -11007,7 +10971,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615637}
   - {fileID: 8926484042661615640}
   - {fileID: 8926484042661615646}
-  m_UIPosition: {x: 2046, y: 231}
+  m_UIPosition: {x: 2217, y: 219}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -11740,7 +11704,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 8926484042661615618}
   m_Children: []
-  m_UIPosition: {x: 0, y: 0}
+  m_UIPosition: {x: 0, y: 172}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -11938,7 +11902,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 8926484042661615618}
   m_Children: []
-  m_UIPosition: {x: 0, y: 0}
+  m_UIPosition: {x: 0, y: 283}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -12933,7 +12897,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 1747, y: 1148}
+  m_UIPosition: {x: 1918, y: 1136}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -13187,7 +13151,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 1557, y: 1168}
+  m_UIPosition: {x: 1728, y: 1156}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -13334,7 +13298,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 2046, y: 906}
+  m_UIPosition: {x: 2217, y: 894}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -14565,7 +14529,7 @@ MonoBehaviour:
       inputSlot: {fileID: 8926484042661615634}
     - outputSlot: {fileID: 8926484042661615893}
       inputSlot: {fileID: 8926484042661615635}
-    position: {x: 1862, y: 470}
+    position: {x: 2033, y: 458}
     expandedSlots: []
     expanded: 0
   - m_Id: 1
@@ -14910,7 +14874,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 1751, y: 1489}
+  m_UIPosition: {x: 1923, y: 1475}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -15216,7 +15180,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 1454, y: 1626}
+  m_UIPosition: {x: 1626, y: 1612}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -16538,7 +16502,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.1
+      m_SerializableObject: 3.333333
     m_Space: 2147483647
   m_Property:
     name: LoopDuration
